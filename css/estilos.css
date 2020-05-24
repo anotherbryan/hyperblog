@@ -1,5 +1,12 @@
 body{
-    color: darkred;
+    color: #fcfcfc;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #080808;
+}
+.contenedor{
+    width: 49%;
+    margin: 1%;
+    background-color: #fcfcfc;
+    color: #080808;
 }
