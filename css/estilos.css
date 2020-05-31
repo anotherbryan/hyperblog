@@ -5,22 +5,23 @@ body{
     margin: 0;
     padding: 0;
 }
-.post1{
+.post{
     width: 45%;
     margin: 2.5%;
-    background-color: #ff4e7a;
+    background-color: #ffe2e4;
     color: #2c2c2c;
     float: left;
+    padding-bottom: 10px;
     
 }
-.post2{
+.post:hover{
     width: 45%;
     margin: 2.5%;
-    background-color: #ff6b77;
+    background-color: #ffe2e4;
     color: #2c2c2c;
     float: left;
-
-   
+    box-shadow: 3px 5px 20px 2px rgba(0, 0, 0, 0.363);
+    transition: all linear 0.20s;
 }
 .contenedor-maestro{
     width: 70%;
@@ -34,7 +35,7 @@ h2{
 
 #cabecera{
     background: rgb(170, 51, 51);
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.363);
     color: white;
     font-weight: bold;
     margin: 0;
