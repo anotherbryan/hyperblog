@@ -12,7 +12,7 @@ body{
     background-color: #ffe2e4;
     color: #2c2c2c;
     float: left;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
     
 }
 .post:hover{
@@ -28,7 +28,8 @@ body{
     width: 70%;
     margin: 0 auto;
     margin-top: 25px;
-    border: 1px solid #dddddd;
+    border: 0px solid #dddddd;
+    background: #fcfcfc;
 }
 h2{
     font-size: 20px;
@@ -65,4 +66,19 @@ h1{
     display: inline-block;
     vertical-align: middle;
     width: 100%;
+}
+.boton{
+    text-decoration: none;
+    background: rgb(170, 51, 51);
+    padding: 10px;
+    border-radius: 5px;
+    color: #fcfcfc;
+}
+.boton:hover{
+    background: rgb(196, 59, 59);
+    transition: all linear 0.20s;    
+}
+
+.espaciador{
+    height: 15px;
 }
