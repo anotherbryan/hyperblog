@@ -7,16 +7,16 @@ body{
     background: #1e1f24;
 }
 .post{
-    width: 45%;
+    width: 40%;
     margin: 2.5%;
     background-color: #ffe2e4;
     color: #2c2c2c;
     float: left;
     padding-bottom: 30px;
-    
+    padding: 30px 10px 30px 10px;
 }
 .post:hover{
-    width: 45%;
+    width: 40%;
     margin: 2.5%;
     background-color: #ffe2e4;
     color: #2c2c2c;
