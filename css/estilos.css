@@ -82,3 +82,14 @@ h1{
 .espaciador{
     height: 15px;
 }
+.contenedor-img img{
+    width: 75%;
+    padding: 0px;
+    transition: all linear 0.20s;
+}
+
+.contenedor-img img:hover{
+    width: 80%;
+    padding: 0px;
+
+}
