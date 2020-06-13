@@ -60,12 +60,13 @@ h1{
     font-size: 0.8em;
 }
 #footer{
-    background: rgb(204, 204, 204);
+    background: rgb(170, 51, 51);
     padding: 0px;
     position: relative;
     display: inline-block;
     vertical-align: middle;
     width: 100%;
+    color: #fcfcfc;
 }
 .boton{
     text-decoration: none;
