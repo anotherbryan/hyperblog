@@ -6,4 +6,6 @@ AnotherBryan-test es una cuenta para pruebas en github.
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral.
